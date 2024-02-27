@@ -11,3 +11,4 @@
 7.  `std::cin`
 8.  `friend` в любых проявлениях
 9.  `&&`
+10. `std::vector::push_back` без предварительного `std::vector::reserve`
